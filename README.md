@@ -1,7 +1,7 @@
 # Predictive-Model-to-Classify-Cab-Bookings
 1. The problem of interest is booking cancellations by the company due to unavailability of a car. 
 2. The challenge is that cancellations can occur very close to the trip start time, thereby causing passengers inconvenience.
-3. Campany has to pay penalty for calcellation
+3. Campany has to pay penalty for Cancellation
 # Data Dictionary
 - id - booking ID
 - user_id - the ID of the customer (based on mobile number)
